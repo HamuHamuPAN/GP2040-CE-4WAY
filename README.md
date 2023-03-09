@@ -1,6 +1,5 @@
-# GP2040-CE | Community Edition Firmware
+# GP2040-CE | Community Edition Firmware＋４WAY Joystick Mode
 
-*Uploading...
 
 Adds 4-way joystick function to GP2040-CE.
 
