@@ -940,6 +940,9 @@ void I2CDisplayAddon::drawStatusBar(Gamepad * gamepad)
 		case SOCD_MODE_NEUTRAL:               statusBar += " SOCD-N"; break;
 		case SOCD_MODE_UP_PRIORITY:           statusBar += " SOCD-U"; break;
 		case SOCD_MODE_SECOND_INPUT_PRIORITY: statusBar += " SOCD-L"; break;
+		case FOUR_MODE_X_PRIORITY:            statusBar += " 4WAY-X"; break;
+		case FOUR_MODE_Y_PRIORITY:            statusBar += " 4WAY-Y"; break;
+		case FOUR_MODE_SECOND_INPUT_PRIORITY: statusBar += " 4WAY-L"; break;
 	}
 	drawText(0, 0, statusBar);
 }
