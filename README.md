@@ -2,7 +2,8 @@
 
 
 Adds 4-way joystick function to GP2040-CE.
-Oh ... SOCD function changed MPG ... orz
+
+I also uploaded the MPG.
 
 
 It operates as a mode of the SOCD function, and while it is set, it will not output anything other than up, down, left, and right.
